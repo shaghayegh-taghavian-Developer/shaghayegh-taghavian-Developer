@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shaghayegh Taghavian - توسعه دهنده</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        
+        .header {
+            text-align: center;
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+        
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        
+        .title {
+            color: #667eea;
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+        
+        .bio {
+            color: #666;
+            font-size: 1.1em;
+            margin-bottom: 30px;
+        }
+        
+        .projects {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        
+        h2 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        
+        .project-list {
+            list-style: none;
+        }
+        
+        .project-item {
+            background: #f8f9fa;
+            margin: 15px 0;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .project-item a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1em;
+        }
+        
+        .project-item a:hover {
+            text-decoration: underline;
+        }
+        
+        .project-description {
+            color: #666;
+            margin-top: 8px;
+            font-size: 0.95em;
+        }
+        
+        .skills {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            margin-top: 30px;
+        }
+        
+        .skill-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+        }
+        
+        .skill-tag {
+            background: #667eea;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9em;
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px 10px;
+            }
+            
+            h1 {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Shaghayegh Taghavian</h1>
+            <div class="title">توسعه دهنده Front-end</div>
+            <p class="bio">
+                علاقه‌مند به برنامه‌نویسی و توسعه وب. در حال یادگیری و ساخت پروژه‌های مختلف.
+            </p>
+        </div>
+
+        <div class="projects">
+            <h2>پروژه‌های من</h2>
+            <ul class="project-list">
+                <li class="project-item">
+                    <a href="https://github.com/shaghayegh-taghavian-Developer/calculator-project" target="_blank">
+                        🧮 ماشین حساب React
+                    </a>
+                    <div class="project-description">
+                        یک ماشین حساب زیبا و کاربردی ساخته شده با React و CSS
+                    </div>
+                </li>
+                <li class="project-item">
+                    <a href="https://github.com/shaghayegh-taghavian-Developer/login-function-project" target="_blank">
+                        🔐 سیستم لاگین
+                    </a>
+                    <div class="project-description">
+                        پروژه سیستم احراز هویت و مدیریت کاربران
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <div class="skills">
+            <h2>مهارت‌ها</h2>
+            <div class="skill-tags">
+                <span class="skill-tag">HTML</span>
+                <span class="skill-tag">CSS</span>
+                <span class="skill-tag">JavaScript</span>
+                <span class="skill-tag">React</span>
+                <span class="skill-tag">Git</span>
+                <span class="skill-tag">GitHub</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
