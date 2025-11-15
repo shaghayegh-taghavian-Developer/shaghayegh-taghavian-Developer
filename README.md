@@ -1,14 +1,26 @@
-# 👋 سلام، من شقایق تقویان هستم
+# 👋 Hello, I'm Shaghayegh Taghavian
 
-## 🚀 توسعه دهنده Front-end
+## 🚀 Front-end Developer
 
-### 📁 پروژه‌های من:
-- [🧮 ماشین حساب React](https://github.com/shaghayegh-taghavian-Developer/calculator-project)
-- [🔐 سیستم لاگین](https://github.com/shaghayegh-taghavian-Developer/login-function-project)
+Passionate about building modern, responsive web applications with clean code and great user experiences.
 
-### 💼 مهارت‌ها:
-- HTML, CSS, JavaScript
-- React
-- Git & GitHub
+### 🛠️ Tech Stack:
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React
+- **Version Control:** Git, GitHub
+- **Tools:** VS Code, Chrome DevTools
 
+### 💻 Featured Projects:
 
+#### 🧮 React Calculator
+A beautiful and functional calculator built with React functional components and modern CSS.
+
+#### 🔐 Login System
+A secure authentication system with user management features.
+
+### 📈 Currently Learning:
+- Advanced React patterns
+- TypeScript
+- Next.js
+
+### 📫 Connect with me:
+- **GitHub:** [shaghayegh-taghavian-Developer](https://github.com/shaghayegh-taghavian-Developer)
