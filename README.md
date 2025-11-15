@@ -11,5 +11,4 @@
 - React
 - Git & GitHub
 
-### 🌐 Portfolio:
-[مشاهده portfolio آنلاین](https://shaghayegh-taghavian-Developer.github.io/shaghayegh-taghavian-Developer/)
+
